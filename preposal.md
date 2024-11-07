@@ -10,7 +10,7 @@ Maybe creating a website that answers questions related to technology for IT hel
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-Kush Patel
+Kush Patel and Armaan Asim
 
 ## Do you have any questions of your own?
 
