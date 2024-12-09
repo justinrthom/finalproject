@@ -10,7 +10,7 @@ Bryan Li
 
 #### Project title
 
-Jingle Games
+Slither Quest
 
 ***
 
@@ -18,11 +18,11 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-So far we have made the website for our idea and are slowly inputting the things we want on that website
+So far I have made the four walls which are the boundaries for the Snake Game 
 
 #### What have you not done for your project yet?
 
-We have not yet added the game that we want to put in the website
+I still need to make the apples
 
 #### What problems, if any, have you encountered?
 
